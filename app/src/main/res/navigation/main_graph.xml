@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/AFragment">
+
+    <fragment
+        android:id="@+id/AFragment"
+        android:name="com.my.feature_a.AFragment"
+        android:label="AFragment" />
+    <fragment
+        android:id="@+id/BFragment"
+        android:name="com.my.feature_b.BFragment"
+        android:label="BFragment" />
+    <fragment
+        android:id="@+id/CFragment"
+        android:name="com.my.feature_c.CFragment"
+        android:label="CFragment" />
+</navigation>

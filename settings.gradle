@@ -1,5 +1,6 @@
 rootProject.name = "MyNavigation"
 include ':app'
-include ':feature-a'
-include ':feature-b'
-include ':feature-c'
+include ':features:feature-a'
+include ':features:feature-b'
+include ':features:feature-c'
+include ':shared:shared-base'

@@ -11,9 +11,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/feature-a" />
-            <option value="$PROJECT_DIR$/feature-b" />
-            <option value="$PROJECT_DIR$/feature-c" />
+            <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/feature-a" />
+            <option value="$PROJECT_DIR$/features/feature-b" />
+            <option value="$PROJECT_DIR$/features/feature-c" />
+            <option value="$PROJECT_DIR$/shared" />
+            <option value="$PROJECT_DIR$/shared/shared-base" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
